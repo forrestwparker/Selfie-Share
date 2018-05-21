@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6F02E22B20B352D3008372A9 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6F02E22A20B352D3008372A9 /* README.md */; };
 		6F9B81B220B0A03D00C2DC94 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F9B81B120B0A03D00C2DC94 /* AppDelegate.swift */; };
 		6F9B81B420B0A03D00C2DC94 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F9B81B320B0A03D00C2DC94 /* ViewController.swift */; };
 		6F9B81B720B0A03D00C2DC94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F9B81B520B0A03D00C2DC94 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6F02E22A20B352D3008372A9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6F9B81AE20B0A03D00C2DC94 /* Selfie Share.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Selfie Share.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F9B81B120B0A03D00C2DC94 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6F9B81B320B0A03D00C2DC94 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -38,6 +40,7 @@
 		6F9B81A520B0A03D00C2DC94 = {
 			isa = PBXGroup;
 			children = (
+				6F02E22A20B352D3008372A9 /* README.md */,
 				6F9B81B020B0A03D00C2DC94 /* Selfie Share */,
 				6F9B81AF20B0A03D00C2DC94 /* Products */,
 			);
@@ -124,6 +127,7 @@
 			files = (
 				6F9B81BC20B0A03E00C2DC94 /* LaunchScreen.storyboard in Resources */,
 				6F9B81B920B0A03E00C2DC94 /* Assets.xcassets in Resources */,
+				6F02E22B20B352D3008372A9 /* README.md in Resources */,
 				6F9B81B720B0A03D00C2DC94 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
